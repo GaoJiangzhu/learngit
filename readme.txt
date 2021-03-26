@@ -3,4 +3,3 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 要撤回的
-第二个要
